@@ -295,6 +295,7 @@ body.loading::after {
 }
 
 /* Ensure text links remain separate */
+/*TO SEPARATE ALL TEXTS*/
 .features-card a {
     z-index: 2; /* Keep link above parent clickable area */
     position: relative;
